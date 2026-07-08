@@ -125,7 +125,7 @@ https://github.com/tanatep-thewgo
 
 📄 Portfolio
 
-https://YOUR_PORTFOLIO
+https://portfolio-thewgo.my.canva.site/tanatep
 
 ---
 
