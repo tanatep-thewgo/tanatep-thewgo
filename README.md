@@ -30,10 +30,10 @@ I spend most of my time somewhere between a Python notebook and a Unity scene �
 
 ### Toolbox
 
-Python · JavaScript · C · C++ · C# · Java &nbsp;|&nbsp; OpenCV · MediaPipe · Unity &nbsp;|&nbsp; Git · Figma · Arduino
+Python · JavaScript · HTML · CSS · C · C++ · C# · Java &nbsp;|&nbsp; OpenCV · MediaPipe · Unity · PWA &nbsp;|&nbsp; Git · VS Code · Figma · Arduino
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,cs,java,opencv,unity,git,figma,arduino" alt="tools" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,cs,java,opencv,unity,git,vscode,figma,arduino" alt="tools" />
 </p>
 
 <br>
