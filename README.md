@@ -2,6 +2,10 @@
 <p align="center">Digital &amp; Communication Engineering, Mae Fah Luang University — class of 2027</p>
 
 <p align="center">
+<img src="./assets/hand-landmark.svg" width="360" alt="Hand-landmark graph from the GestureTalk project" />
+</p>
+
+<p align="center">
 <a href="mailto:tanatep.pamuta@gmail.com">tanatep.pamuta@gmail.com</a> ·
 <a href="https://tanatep-thewgo.github.io">portfolio</a> ·
 Sakon Nakhon, Thailand
